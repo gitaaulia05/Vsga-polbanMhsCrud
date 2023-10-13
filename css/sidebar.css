@@ -1,0 +1,18 @@
+*{
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Open Sans', sans-serif;
+  }
+    .side {
+      position: fixed;
+      min-height: 80% !important;
+      min-width: 20% !important;
+    }
+
+    .side .nav-2 .nav-link.active .text{
+      font-weight: 600;
+
+    }
+
+    .side .nav-2  .nav-link.active .fa-solid {
+      color: #3765b3;
+}
